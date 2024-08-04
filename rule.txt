@@ -1,5 +1,5 @@
 ! Block Adscompany
-some sources: https://github.com/jdlingyu/ad-wars
+! some sources: https://github.com/jdlingyu/ad-wars
 
 ||*.mobi^
 ||tt.cn^
@@ -78,7 +78,6 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||adv.madserving.com^
 
 ! # Ads - Tencent
-
 @@||aeventlog.beacon.qq.com^
 @@||cfg.flurry.com^
 @@||data.flurry.com^
@@ -122,9 +121,7 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||fw.qq.com^
 ||mdt.qq.com^
 
-
 ! # Ads - Google
-
 ||media.mobpartner.mobi^
 ||ads2.mediaarmor.com^
 ||cdn.nearbyad.com^
@@ -142,7 +139,6 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||googletagservices-cn.com^
 
 ! # Ads - Baidu
-
 ||wanba.baidu.com^
 ||iwan.baidu.com^
 ||wan.baidu.com^
@@ -150,7 +146,6 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||adm.baidu.com^
 
 ! # Ads - Coolapk
-
 ||ctobsnssdk.com^
 ||pangolin.snssdk.com^
 ||pangolin-sdk-toutiao.com^
@@ -165,16 +160,12 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||pangolin-sdk-toutiao.com^
 ||pangolin-sdk-toutiao-b.com^
 
-
 ! # Ads - Xiaomi
-
 ||ad.xiaomi.com^
 ||o2o.api.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
 
-
 ! Tracking
-
 ||tpstelemetry.tencent.com^
 ||track.xiachufang.com^
 ||trackbeat.xiachufang.com^
@@ -222,26 +213,19 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||fp-it*.fengkongcloud.com^
 ||*-launches.appsflyersdk.com^
 
-
 ! Block Anti-Fraud Center Tracking
-
 ||miav-cse.avlyun.com^
 ||a0.app.xiaomi.com^
 ||miui-fxcse.avlyun.com^
 ||api.installer.xiaomi.com^$important
 
-
 ! Input
-
 ||ping.pinyin.sogou.com^
 
 ! Block PCDN BiliBili
-
-||*.mcdn.bilivideo.cn^
-
+||mcdn.bilivideo.cn^
 
 ! BAT Built-in DNS
-
 ||dns.qq.com^
 ||httpdns.pro^
 ||httpdns.kg.qq.com^
@@ -256,9 +240,7 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||apd-pcdnvodstat.teg.tencent-cloud.net^
 ||apd-vodp2plogin.teg.tencent-cloud.net^
 
-
 ! Block Built-in DNS
-
 ||*.lan^
 ||_*._*^
 ||doh.dns.apple.com^
@@ -341,3 +323,56 @@ some sources: https://github.com/jdlingyu/ad-wars
 ||httpdns.*.yy.com^
 ||dotserver.douyucdn.cn^
 ||*dns*.adobe.com
+
+! Additional httpdns
+||httpdns.baidu.com^
+||kuaishou.httpdns.pro^
+||httpdns-browser.platform.dbankcloud.cn^
+||apidns.kwd.inkuai.com^
+||hdns.ksyun.com^
+||*.ahadns.com^
+
+! https://www.nodeseek.com/post-139229-1
+||gjfzpt.cn^
+||szbdyd.com^
+||bsccdn.net^
+||pkoplink.com^
+||saxysec.com^
+||uhabo.com^
+||xycdn.com^
+||kuiniuca.com^
+||onethingpcs.com^
+||jomodns.cn^
+||p2p.huya.com^
+||stun.douyucdn.cn^
+||stun.hitv.com^
+||stun1.douyucdn.cn^
+||tpa-hcdn.iqiyi.com^
+||pcdn.xmcdn.com^
+||.*pcdn.*biliapi.net^
+||.*p2p.*douyucdn.cn^
+||.*p2p.*qq.com^
+||pcdn.yximgs.com^
+||*pcdn.*youku.com^
+
+! Additional Xiaomi Domain
+||flash.sec.miui.com^
+||resolver.msg.xiaomi.net^
+||redirect.pandora.xiaomi.com^
+||rp.hpplay.com.cn^
+||rps.hpplay.cn^
+||tv.weixin.pandora.xiaomi.com^
+||tvapp.hpplay.cn^
+||userapi.hpplay.com.cn^
+||vipauth.hpplay.cn^
+||vipsdkauth.hpplay.cn^
+||auth.api.gitv.tv^
+||misc.in.duokanbox.com^
+||tvapi.kuyun.com^
+||api.browser.miui.com^
+||hybrid.miui.com^
+||hybrid.xiaomi.com^
+||ssl-cdn.static.browser.mi-img.com^
+||c3-cache.browser.miui.com^
+||api-ipv4.browser.miui.com^
+||imdns.lebo.com.cn^
