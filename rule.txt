@@ -241,7 +241,7 @@
 ||apd-vodp2plogin.teg.tencent-cloud.net^
 
 ! Block Built-in DNS
-||*.lan^
+@@||*.lan^
 ||_*._*^
 ||doh.dns.apple.com^
 ||dns.jd.com^
