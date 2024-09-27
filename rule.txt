@@ -157,8 +157,11 @@
 ||mssdk-bu.bytedance.com^
 ||ctobsnssdk.com^
 ||pangolin.snssdk.com^
-||pangolin-sdk-toutiao.com^
-||pangolin-sdk-toutiao-b.com^
+
+! # Ads - Leigod
+
+||p*-ad.adukwai.com^
+||ad*.sigmob.cn^
 
 ! # Ads - Xiaomi
 ||ad.xiaomi.com^
@@ -222,8 +225,15 @@
 ! Input
 ||ping.pinyin.sogou.com^
 
-! Block PCDN BiliBili
-||mcdn.bilivideo.cn^
+! Block PCDN
+
+||*.mcdn.bilivideo.cn^
+||punch.p2p.qq.com^
+||musicps.p2p.qq.com^
+||musicstun.p2p.qq.com^
+||musicpunch.p2p.qq.com^
+||tp2p.kg.qq.com^
+||twns.p2ptun.qq.com^
 
 ! BAT Built-in DNS
 ||dns.qq.com^
@@ -241,8 +251,6 @@
 ||apd-vodp2plogin.teg.tencent-cloud.net^
 
 ! Block Built-in DNS
-@@||*.lan^
-||_*._*^
 ||doh.dns.apple.com^
 ||dns.jd.com^
 ||httpdns.browser.miui.com^
@@ -282,12 +290,10 @@
 ||httpdns.ocloud.oppomobile.com^
 ||httpdns.bcelive.com^
 ||*.dns-detect.alicdn.com^
-||www-env.dropbox-dns.com^
 ||httpdns.music.ntes53.netease.com^
 ||*.dns.cross.gt^
 ||dig-tlsv3.bdurl.net^
 ||dns.loveimgmoe.com^
-||dropbox-dns.com^
 ||v6-data.video.dns.iqiyi.com^
 ||httpdns.bilivideo.com^
 ||dns.icoa.cn^

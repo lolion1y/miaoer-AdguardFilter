@@ -1,13 +1,13 @@
 ---
-name: Hosts report
-about: 存在误杀我要报告
+name: Add rules
+about: 新增更合理的规则进行拦截
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-## 遇到问题
+## 拦截描述
 
 
 
