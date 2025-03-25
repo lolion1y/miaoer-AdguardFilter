@@ -386,3 +386,6 @@
 @@||mcc.inf.miui.com^$important
 @@||api.sec.miui.com^$important
 @@||api.sec.intl.miui.com^$important
+
+! 游戏侧边栏
+@@||adv.sec.miui.com^$important
