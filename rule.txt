@@ -160,7 +160,7 @@
 ! # Ads - Leigod
 
 ||p*-ad.adukwai.com^
-||ad*.sigmob.cn^
+||adservice.sigmob.cn^
 
 ! # Ads - Xiaomi
 ||ad.xiaomi.com^
