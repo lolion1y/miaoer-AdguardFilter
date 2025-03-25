@@ -381,3 +381,8 @@
 ||c3-cache.browser.miui.com^
 ||api-ipv4.browser.miui.com^
 ||imdns.lebo.com.cn^
+
+! 云控相关
+@@||mcc.inf.miui.com^$important
+@@||api.sec.miui.com^$important
+@@||api.sec.intl.miui.com^$important
