@@ -384,6 +384,7 @@
 
 ! 云控相关
 @@||mcc.inf.miui.com^$important
+@@||mcc.intl.inf.miui.com^$important
 @@||api.sec.miui.com^$important
 @@||api.sec.intl.miui.com^$important
 
