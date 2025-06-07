@@ -2,6 +2,11 @@
 
 **更合理 AdGuard 规则，轻松改善你的使用体验 - 专注于拦截追踪器和 HTTPDNS**
 
+[![Stars](https://m3-markdown-badges.vercel.app/stars/3/3/miaoermua/AdguardFilter)](https://github.com/miaoermua/AdguardFilter)
+[![Issues](https://m3-markdown-badges.vercel.app/issues/1/2/miaoermua/AdguardFilter)](https://github.com/miaoermua/AdguardFilter/issues)
+[![Support](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor1.svg)](https://www.miaoer.net/sponsor)
+[![COPYING](https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit1.svg)](https://github.com/miaoermua/CatWrt/blob/main/LICENSE)
+
 禁用常见软件内置 DNS，禁用 MIUI 反炸，禁用 MIUI 安装器 API，将 DNS 请求牢牢地把握自己手里。
 
 人工亲测减少误杀可能，和 CatWrt 一样优秀！[⚠️ 误杀报告](https://github.com/miaoermua/AdguardFilter/issues/new?assignees=&labels=&projects=&template=hosts-report.md&title=)
@@ -14,7 +19,8 @@ https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt
 
 ## 完整版
 
-因为不影响存量用户 rule.txt 为标准规则，因为 Apple & MicroSoft 较多域名，所以单独增加了白名单规则，遵循官方给出的白名单规则。如需要添加不仅仅需要添加黑名单还需要添加白名单才可以正常使用，否则由 Apple 提供的服务将无法使用 (如: iCloud,Find,App Store,Apple Music……)。
+因为不影响存量用户 rule.txt 为标准规则，因为 Apple & MicroSoft 较多域名，所以单独增加了白名单规则，遵循官方给出的白名单规则。如需要添加不仅仅需要添加黑名单还需要添加白名单才可以正常使用，
+否则由 Apple 提供的服务将无法使用 (如: iCloud, Find, App Store, Apple Music ……)。
 
 黑名单列表: `https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/bad_apple.txt`
 
@@ -22,7 +28,7 @@ https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt
 
 ## 去广告
 
-只实现了关于微信广告，酷安广告，友盟的封禁。
+只实现了关于微信广告，酷安广告，友盟，雷神加速器的封禁。
 
 ## 跟踪器
 
