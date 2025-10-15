@@ -161,11 +161,44 @@
 
 ||p*-ad.adukwai.com^
 ||adservice.sigmob.cn^
+||n.sigmob.cn^
+||rtbcallback.sigmob.cn^
+||tm.sigmob.cn^
+||track.sigmob.cn^
+||tracktp.sigmob.cn^
+
 
 ! # Ads - Xiaomi
 ||ad.xiaomi.com^
 ||o2o.api.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
+
+
+! # Tracking - Xiaomi
+
+||tracker.xiaomixiaoai.com^
+||exp.sug.browser.miui.com^
+||sentry.d.xiaomi.net^
+||track.ad.xiaomi.com^
+||api.sec.miui.com^
+||metok.sys.miui.com^
+||auth.be.sec.miui.com^
+||tracker.ai.xiaomi.com^
+||api.miui.security.xiaomi.com^
+
+! # Tracking - ms-edge
+
+||browser.events.data.msn.cn^
+||browser.events.data.msn.com^
+
+
+! Block Anti-Fraud Center Tracking (xiaomi)
+
+||miav-cse.avlyun.com^
+||a0.app.xiaomi.com^
+||miui-fxcse.avlyun.com^
+||api.installer.xiaomi.com^$important
+
 
 ! Tracking
 ||tpstelemetry.tencent.com^
@@ -185,11 +218,6 @@
 ||track.mituo.cn^
 ||cc-api-data.adobe.io^
 ||log*.aliyuncs.com^
-||api.sec.miui.com^
-||metok.sys.miui.com^
-||auth.be.sec.miui.com^
-||tracker.ai.xiaomi.com^
-||api.miui.security.xiaomi.com^
 ||beacon-api.aliyuncs.com^
 ||g.doubleclick.net^
 ||google-analytics.com^
@@ -214,11 +242,10 @@
 ||fp-it*.fengkongcloud.com^
 ||*-launches.appsflyersdk.com^
 
-! Block Anti-Fraud Center Tracking
-||miav-cse.avlyun.com^
-||a0.app.xiaomi.com^
-||miui-fxcse.avlyun.com^
-||api.installer.xiaomi.com^$important
+! Virus
+! # zygisk.apk - com.android.append
+
+||fdkss.sbs^
 
 ! Input
 ||ping.pinyin.sogou.com^
@@ -248,11 +275,11 @@
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
 ||apd-pcdnvodstat.teg.tencent-cloud.net^
 ||apd-vodp2plogin.teg.tencent-cloud.net^
+||httpdns.browser.miui.com^
 
 ! Block Built-in DNS
 ||doh.dns.apple.com^
 ||dns.jd.com^
-||httpdns.browser.miui.com^
 ||httpdns.danuoyi.tbcache.com^
 ||music.httpdns.c.163.com^
 ||httpdns.n.netease.com^
@@ -280,7 +307,6 @@
 ||dig-ec.bdurl.net^
 ||dns.cyida.com^
 ||dns.weibo.cn^
-||dns-info-static.hitwh.net.cn^
 ||wlay.dd-dns.de^
 ||now-dns.net^
 ||httpdns.kwd.inkuai.com^
@@ -383,12 +409,3 @@
 ||c3-cache.browser.miui.com^
 ||api-ipv4.browser.miui.com^
 ||imdns.lebo.com.cn^
-
-! 云控相关
-@@||mcc.inf.miui.com^$important
-@@||mcc.intl.inf.miui.com^$important
-@@||api.sec.miui.com^$important
-@@||api.sec.intl.miui.com^$important
-
-! 游戏侧边栏
-@@||adv.sec.miui.com^$important
