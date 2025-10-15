@@ -242,6 +242,8 @@
 ||fp-it*.fengkongcloud.com^
 ||*-launches.appsflyersdk.com^
 
+||entry.clientlog.music.ntes53.netease.com^
+
 ! Virus
 ! # zygisk.apk - com.android.append
 
@@ -316,6 +318,7 @@
 ||httpdns.bcelive.com^
 ||*.dns-detect.alicdn.com^
 ||httpdns.music.ntes53.netease.com^
+||httpdnsv4.ntes53.netease.com^
 ||*.dns.cross.gt^
 ||dig-tlsv3.bdurl.net^
 ||dns.loveimgmoe.com^
