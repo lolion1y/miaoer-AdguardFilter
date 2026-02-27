@@ -249,12 +249,17 @@
 
 ||fdkss.sbs^
 
+! # nextjs cve
+
+||*.1433.eu.org
+
 ! Input
 ||ping.pinyin.sogou.com^
 
 ! Block PCDN
 
 ||*.mcdn.bilivideo.cn^
+||*.edge.mountaintoys.cn^
 ||punch.p2p.qq.com^
 ||musicps.p2p.qq.com^
 ||musicstun.p2p.qq.com^
@@ -278,9 +283,12 @@
 ||apd-pcdnvodstat.teg.tencent-cloud.net^
 ||apd-vodp2plogin.teg.tencent-cloud.net^
 ||httpdns.browser.miui.com^
+||httpdnsmultiapivip.meituan.com
+
 
 ! Block Built-in DNS
-||doh.dns.apple.com^
+
+# ||doh.dns.apple.com^
 ||dns.jd.com^
 ||httpdns.danuoyi.tbcache.com^
 ||music.httpdns.c.163.com^
