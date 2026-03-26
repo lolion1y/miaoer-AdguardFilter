@@ -356,8 +356,6 @@
 ||httpdns.*.yy.com^
 ||dotserver.douyucdn.cn^
 ||*dns*.adobe.com
-||doh.pub^
-||dot.pub^
 
 ! Additional httpdns
 ||httpdns.baidu.com^
