@@ -235,8 +235,7 @@
 ||*-inapps.appsflyersdk.com^
 ||fp-it*.fengkongcloud.com^
 ||*-launches.appsflyersdk.com^
-
-||entry.clientlog.music.ntes53.netease.com^
+||clientlog.music.ntes53.netease.com^
 
 ! Virus
 ! # zygisk.apk - com.android.append
