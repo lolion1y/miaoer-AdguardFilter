@@ -14,7 +14,6 @@
 ||alog.umeng.co^
 ||au.umeng.co^
 ||oc.umeng.co^
-||alog.umeng.com^
 ||alog-default.umeng.com^
 ||alogs.umeng.com^
 ||alogsus.umeng.com^
@@ -111,7 +110,6 @@
 ||adpm.app.qq.com^
 ||adrdir.qq.com^
 ||ads.privacy.qq.com^
-||adsclick.qq.com^
 ||3gsoftfile.tc.qq.com^
 ||3gsoftfile.tcdn.qq.com^
 ||d.gdt.qq.com^
@@ -124,7 +122,6 @@
 ||media.mobpartner.mobi^
 ||ads2.mediaarmor.com^
 ||cdn.nearbyad.com^
-||ads.flurry.com^
 ||gemini.yahoo.com^
 ||admin.vserv.mobi^
 ||c.vserv.mobi^
@@ -150,12 +147,9 @@
 ||pangolin-sdk-toutiao.com^
 ||pangolin-sdk-toutiao-b.com^
 ||pglstatp-toutiao.com^
-||ulogs.umeng.com^
 ||aaid.umeng.com^
 ||tnc*.zijieapi.com^
 ||mssdk-bu.bytedance.com^
-||ctobsnssdk.com^
-||pangolin.snssdk.com^
 
 ! # Ads - Leigod
 
@@ -327,7 +321,6 @@
 ||*.dns-detect.alicdn.com^
 ||httpdns.music.ntes53.netease.com^
 ||httpdnsv4.ntes53.netease.com^
-||*.dns.cross.gt^
 ||dig-tlsv3.bdurl.net^
 ||dns.loveimgmoe.com^
 ||v6-data.video.dns.iqiyi.com^
@@ -344,7 +337,6 @@
 ||api.yuedu.dns.iqiyi.com^
 ||httpdns.meituan.com^
 ||httpdns-api.aliyuncs.com^
-||*.dns-detect.alicdn.com^
 ||api-env.dropbox-dns.com^
 ||oss.dns.aliyun.com.dalvhe.com^
 ||dns.supfree.net^
@@ -361,7 +353,6 @@
 ||dnsrr9.wym*.com^
 ||dnsxyc.wym*.com^
 ||httpdns.tantanapp.com^
-||httpdns.yunxindns.com^
 ||httpdns.*.yy.com^
 ||dotserver.douyucdn.cn^
 ||*dns*.adobe.com
